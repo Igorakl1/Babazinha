@@ -44,12 +44,10 @@ body {
 }
 
 h2 {
-  display: flex;
-  font-size: 24px;
-  color: #050505;
-  text-transform: uppercase;
+  font-size: 2rem;
+  color: #000000;
+  text-align: center;
   margin-top: 20px;
-  justify-content: center;
 }
 
 .text {
